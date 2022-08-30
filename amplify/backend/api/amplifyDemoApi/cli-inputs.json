@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/books/{isbn}": {
+      "name": "/books/{isbn}",
+      "lambdaFunction": "amplifydemoapp49de8db0",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
